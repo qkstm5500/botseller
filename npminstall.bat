@@ -1,2 +1,0 @@
-npm clean-install
-pause
